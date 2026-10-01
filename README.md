@@ -65,5 +65,4 @@ This project demonstrates practical skills in Excel data analysis, data cleaning
 
 ![Sales Dashboard](Dashboard_Full.png)
 ![Sales Dashboard](Dashboard_Details.png)
-![Sales Dashboard](Dashboard_Details2.png)
-
+![Sales Dashboard](Dashboard_Details 2.png)
