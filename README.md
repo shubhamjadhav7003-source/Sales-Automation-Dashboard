@@ -60,3 +60,10 @@ A VBA button allows the user to refresh the complete dashboard with one click.
 ## 🎯 Purpose
 
 This project demonstrates practical skills in Excel data analysis, data cleaning, dashboard development, and workflow automation.
+
+## 📊 Dashboard Preview
+
+![Sales Dashboard](Dashboard_Full.png)
+![Sales Dashboard](Dashboard_Details.png)
+![Sales Dashboard](Dashboard_Details2.png)
+
